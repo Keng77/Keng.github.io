@@ -52,5 +52,4 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keng77&show_icons=true&theme=radical)  
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Keng77}&theme=blue-green)  
